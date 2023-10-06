@@ -1,4 +1,4 @@
-export const HOST = "https://wa-server.hasanbasri93.com/";
+export const HOST = "https://wa-server.hasanbasri93.com";
 
 const authRoute = `${HOST}/api/auth`;
 const MESSAGES_ROUTE = `${HOST}/api/messages`;
